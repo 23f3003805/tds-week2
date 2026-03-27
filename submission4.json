@@ -1,0 +1,7 @@
+{
+  "prompt": "A dramatic, cinematic scene of planet Earth glowing red-hot like heated metal, with cracks forming on its surface and heat waves rising into the air. The environment feels suffocating and intense, with a dark background emphasizing the heat. No text, no labels, no charts. Highly detailed, emotional, realistic lighting, atmospheric heat distortion.",
+  "model": "DALL·E 3",
+  "dataset_name": "NASA Global Surface Temperature Dataset",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Global temperatures are rising steadily, making the planet increasingly hot and dangerous."
+}
