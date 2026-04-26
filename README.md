@@ -2,7 +2,7 @@
 
 A Flask-based REST API service.
 
-## 
+##
 7.0.0
 
 ## Quick Start
